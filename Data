@@ -1,0 +1,16 @@
+Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+
+Data that will be used -
+We will be leveraging the Foursquare location data for the city of Singapore for this report.
+
+Other datasets -
+We are likely to not require other datasets for this report, since the Foursquare API should have the necessary data around the neighbourhoods and their amenities.
+
+Example usecases -
+Suppose I am emigrating to Singapore, and my employer's office is located in Clementi(a neighbourhood in Singapore). So I need to look for houses in Singapore based on my personal set of requirements ->
+1). Movie theatre nearby since I am a movei buff and watch at least 1-2 movies per month in a theatre;
+2). Italian restaurant nearby since Pizza/Pasta are my favourite dishes and would want to have them at least 1-2 times a month;
+3). Gymnasium nearby since I work out for an hour every morning and would prefer a quick commute to a nearby gym;
+4). Good Public Transit options with a one-way commute time of no more than 30 minutes to the office. Or, a to-&-fro commute time of < 60 minutes;
+
+Based on these conditions, the FourSquare API's location data should be able to visually represent the different neighbourhoods of Singapore along with their amenities. Based on this data(and visualisation), I should be able to identify the ideal neighbourhood that meets all(or most) of my above set of conditions.
