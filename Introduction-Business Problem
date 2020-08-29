@@ -5,7 +5,6 @@ Problem statement -
 An individual is emigrating to Singapore as an employee of an organisation/business/company.
 Based on their preferences for commute time/distance, entertainment options(Theatres, Restaurants, etc) and others, where(which neighbourhood) would we recommend them to look for houses?
 
-We will be leveraging the Foursquare location data for the city of Singapore for this report.
 
 Target audience -
 This report can be useful for anyone emigrating to Singapore for jobs/education, and will need to start house-hunting.
